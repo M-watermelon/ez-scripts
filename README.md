@@ -1,5 +1,5 @@
 ## What is this?
-This is a repo containing scripts I wrote to solve problems in daily life that are kind of similar to online coding challenges, so most of the programs will be pretty short. 
+This is a repo containing scripts I wrote to solve problems in daily life that are kind of similar to online coding challenges. Most of the programs will be pretty short, and I may or may not optimize them in the future.
 
 ## What scripts are on here?
 
